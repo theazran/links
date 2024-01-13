@@ -3,11 +3,11 @@
     "title": "Featured",
     "urls": [
       {
-        "title": "UI/UX Design Mastery dari Skilvul",
-        "url": "http://bit.ly/skilvul-dimas",
-        "body": "Belajar mulai dari Pengenalan UI/UX dan Figma  sampe bikin Study Case dan Persiapan Melamar Kerja.",
-        "tag": ["UI/UX", "COURSE"],
-        "published_date": "2022-06-25"
+        "title": "GitHub Copilot",
+        "url": "https://copilot.github.com/",
+        "body": "Don’t fly solo.",
+        "tag": ["TOOLS", "RESOURCES"],
+        "published_date": "2025-04-18"
       }
     ]
   },
