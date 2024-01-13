@@ -7,7 +7,14 @@
         "url": "https://copilot.github.com/",
         "body": "Don’t fly solo.",
         "tag": ["TOOLS", "RESOURCES"],
-        "published_date": "2025-04-18"
+        "published_date": "2024-01-14"
+      },
+      {
+        "title": "ChatGPT",
+        "url": "https://chat.openai.com/",
+        "body": "Don’t fly solo.",
+        "tag": ["TOOLS", "RESOURCES"],
+        "published_date": "2024-01-14"
       }
     ]
   },
