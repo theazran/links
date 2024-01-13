@@ -12,7 +12,7 @@
       {
         "title": "ChatGPT",
         "url": "https://chat.openai.com/",
-        "body": "Don’t fly solo.",
+        "body": "Pakai ini jika kamu pusing",
         "tag": ["TOOLS", "RESOURCES"],
         "published_date": "2024-01-14"
       }
@@ -38,18 +38,11 @@
     "title": "Resources",
     "urls": [
       {
-        "title": "GitHub Led Scroller",
-        "url": "https://github.com/theazran/led-/",
-        "body": "💡 Led Scroller website for TikTok trends",
-        "tag": ["PROJECTS", "RESOURCES"],
-        "published_date": "2025-07-5"
-      },
-      {
-        "title": "LED Scroller",
-        "url": "https://led.dimasmiftah.me?text=",
-        "body": "Bikin tulisan berjalan ala-ala konter hape.",
+        "title": "ChatGPT WhatsApp",
+        "url": "https://github.com/theazran/chatgpt-whatsapp",
+        "body": "Pakai ChatGPT di WhatsApp",
         "tag": ["PROJECT", "WEBSITE"],
-        "published_date": "2022-12-12"
+        "published_date": "2024-01-14"
       }
     ]
   },
